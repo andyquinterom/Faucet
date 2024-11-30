@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://ixpantia.github.io/faucet/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/examples/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/examples/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/examples/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/faq/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/faq/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/getting_started/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/in_containers/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/in_containers/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/in_containers/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/install/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/install/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/install/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/logging/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/logging/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/logging/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/options/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/options/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/options/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/reverse_proxy/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/reverse_proxy/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/reverse_proxy/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/examples/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/examples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/examples/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/faq/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/faq/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/getting_started/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/in_containers/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/in_containers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/in_containers/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/install/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/install/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/logging/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/logging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/logging/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/options/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/options/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/options/"/>
+    </url>
+    <url>
+        <loc>https://ixpantia.github.io/faucet/es/reverse_proxy/</loc>
+        <lastmod>2024-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ixpantia.github.io/faucet/es/reverse_proxy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ixpantia.github.io/faucet/reverse_proxy/"/>
+    </url>
+</urlset>
